@@ -4,7 +4,6 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=5C6166&center=true&vCenter=true&width=435&lines=Hello+World+👋;I'm+LaMaks3" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Software Developer & Apple Enthusiast</h3>
@@ -68,6 +67,5 @@
 
 <div align="center">
   
-![GitHub streak stats](https://streak-stats.demolab.com/?user=LaMaks3&theme=default&hide_border=true&background=00000000&stroke=00000000&ring=007AFF&fire=007AFF&currStreakLabel=5C6166)
   
 </div>
