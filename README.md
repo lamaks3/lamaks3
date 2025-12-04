@@ -8,18 +8,6 @@
   <img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=green" />
 </p>
 
-<h1 align="center">
-</h1>
-
-<br>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaMaks3&show_icons=true&theme=default&hide_border=true&bg_color=00000000&text_color=010101&icon_color=007AFF&title_color=010101" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaMaks3&layout=compact&theme=default&hide_border=true&bg_color=00000000&text_color=010101&title_color=010101" />
-</div>
-
-<br>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
