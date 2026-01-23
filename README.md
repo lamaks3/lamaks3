@@ -39,7 +39,7 @@
 | Project | Description | Technologies | Status |
 | :--- | :--- | :--- | :--- |
 | **[GradientCast: Weather App](https://apps.apple.com/us/app/gradientcast-local-weather/id6757619027)** | A weather forecast app powered by WeatherKit and Core Location. Features include multiple location management, current location search, and customizable UI themes. | Swift, SwiftUI, WeatherKit, Core Location | Available&nbsp;on <br> [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)]((https://apps.apple.com/us/app/gradientcast-local-weather/id6757619027)) |
-| **[Finance App](https://github.com/lamaks3/FinaceApp)** | An iOS application for tracking personal finances with multi-accounts support. Users can manage expenses across different asset types, including bank cards and cash. | Swift, SwiftUI | 🚧&nbsp;In&nbsp;Progress |
+| **[Finance App](https://github.com/lamaks3/FinanceApp)** | An iOS application for tracking personal finances with multi-accounts support. Users can manage expenses across different asset types, including bank cards and cash. | Swift, SwiftUI | 🚧&nbsp;In&nbsp;Progress |
 | **[Restaurant Reservation App](https://github.com/lamaks3/RestaurantReservationForm)** | An interactive form with input validation, location selection, and reservation saving | Swift, SwiftUI | ✅&nbsp;Completed |
 | **[Restaurant Menu App](https://github.com/lamaks3/RestaurantMenuApp)** | A digital menu allowing users to browse categories and view item details | Swift, SwiftUI | ✅&nbsp;Completed |
 
