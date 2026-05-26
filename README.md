@@ -23,6 +23,8 @@
 
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
 <img src="https://img.shields.io/badge/SwiftUI-147EFB?style=flat-square&logo=xcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker_Desktop-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio&logoColor=white" />
 <img src="https://img.shields.io/badge/JetRider/PyCharm-000000?style=flat-square&logo=jetbrains&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-8B00FF?style=flat-square&logo=figma&logoColor=white" />
@@ -32,6 +34,24 @@
 
 <br>
 
+## 🚀 Project Example
+
+### MindfulLoop
+An iOS application for boosting productivity using the Pomodoro technique with integrated wellness support. Users can maintain their well-being during work sessions with actionable health tips, including eye exercises and guided breathing gymnastics.
+
+**Screenshots:**
+
+<p align="center">
+  <img src="https://github.com/lamaks3/Images/blob/main/iPhone4.png" width="250">
+  <img src="https://github.com/lamaks3/Images/blob/main/iPhone.png" width="250">
+  <img src="https://github.com/lamaks3/Images/blob/main/iPhone5.png" width="250">
+  <br> <!-- Этот тег переносит на новую строку -->
+  <img src="https://github.com/lamaks3/Images/blob/main/iPhone6.png" width="250" />
+  <img src="https://github.com/lamaks3/Images/blob/main/iPhone2.png" width="250" />
+  <img src="https://github.com/lamaks3/Images/blob/main/iPhone7.png" width="250" />
+</p>
+
+
 ## 📱 My iOS Projects
 
 <div align="center">
@@ -39,6 +59,8 @@
 | Project | Description | Technologies | Status |
 | :--- | :--- | :--- | :--- |
 | **[GradientCast: Weather App](https://apps.apple.com/us/app/gradientcast-local-weather/id6757619027)** | A weather forecast app powered by WeatherKit and Core Location. Features include multiple location management, current location search, and customizable UI themes. | Swift, SwiftUI, WeatherKit, Core Location | Available&nbsp;on <br> [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/gradientcast-local-weather/id6757619027) |
+| **[MindfulLoop](https://github.com/lamaks3/MindfulLoop-Release)** | An iOS application for boosting productivity using the Pomodoro technique with integrated wellness support. Users can maintain their well-being during work sessions with actionable health tips, including eye exercises and guided breathing gymnastics. | Swift, SwiftUI | ✅&nbsp;Preparing for &nbsp;AppStore release |
+| **[CycloSpeedometer](https://github.com/lamaks3/CycloSpeedometer)** | A mobile application for bicycle speed tracking featuring car-style dashboard designs. Users can customize their riding experience with various visual themes and full support for both horizontal and vertical screen orientations. | Swift, SwiftUI | ✅&nbsp;Preparing for &nbsp;AppStore release |
 | **[Finance App](https://github.com/lamaks3/FinanceApp)** | An iOS application for tracking personal finances with multi-accounts support. Users can manage expenses across different asset types, including bank cards and cash. | Swift, SwiftUI | 🚧&nbsp;In&nbsp;Progress |
 | **[Restaurant Reservation App](https://github.com/lamaks3/RestaurantReservationForm)** | An interactive form with input validation, location selection, and reservation saving | Swift, SwiftUI | ✅&nbsp;Completed |
 | **[Restaurant Menu App](https://github.com/lamaks3/RestaurantMenuApp)** | A digital menu allowing users to browse categories and view item details | Swift, SwiftUI | ✅&nbsp;Completed |
