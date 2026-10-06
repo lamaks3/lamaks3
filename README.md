@@ -1,7 +1,7 @@
 
 <h1 align="left">👋🏻 Hey, I'm Max
 <h2 align="center">💻 Software Engineer & Tech Enthusiast</h2>
-<h2 align="center">I'm a 2nd year student specializing in Software Engineering, interested in developing for mobile platforms, mainly for iOS. I'm always happy to learn something new. I like to set goals and enjoy achieving them</h2>
+<h2 align="center">I'm a 3nd year student specializing in Software Engineering, interested in developing for mobile platforms, mainly for iOS. I'm always happy to learn something new. I like to set goals and enjoy achieving them</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/iPadOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
